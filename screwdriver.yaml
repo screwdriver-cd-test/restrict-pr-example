@@ -2,7 +2,7 @@ shared:
     image: node:12
 
 annotations:
-    screwdriver.cd/restrictPR: true
+    screwdriver.cd/restrictPR: all
 
 
 jobs:
